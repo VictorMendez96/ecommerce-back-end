@@ -18,6 +18,11 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   // find a single product by its `id`
   // be sure to include its associated Category and Tag data
+  try{
+
+  } catch (err) {
+    res.status(500).json(err)
+  }
 });
 
 // create new product
@@ -96,6 +101,11 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   // delete one product by its `id` value
+  try{
+
+  } catch (err) {
+    res.status(500).json(err)
+  }
 });
 
 module.exports = router;
