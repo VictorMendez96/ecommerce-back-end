@@ -53,3 +53,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Application Links
 
 [GitHub](https://github.com/VictorMendez96/ecommerce-back-end)
+[Video Walk-through]()
