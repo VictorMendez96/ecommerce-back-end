@@ -39,10 +39,20 @@ This application is demonstrating the function of a back-end for e-commerce. Sin
 npm i
 ```
 
+In order to have some sample data, you can also run command below:
+```
+npm run seed
+```
+
 This will install all dependencies. You will also need an API client to run CRUD API calls, like Insomnia.
 
 
 ## Usage
+
+After everything is installed, you will begin the program by running the following command in a terminal in the program folder: 
+```
+npm run start
+```
 
 You will open your API Client and start making CRUD requests to the API. You should get results like the ones in the screenshots below or in the walk-through video also below. 
  
