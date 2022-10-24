@@ -34,12 +34,17 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
+This application is demonstrating the function of a back-end for e-commerce. Since this is not an application that is deployed you will need to copy the code to your local drive. After downloading the program you will use a terminal to go to the program folder and run the command below: 
+```
+npm i
+```
 
+This will install all dependencies. You will also need an API client to run CRUD API calls, like Insomnia.
 
 
 ## Usage
 
-
+You will open your API Client and start making CRUD requests to the API. You should get results like the ones in the screenshots below or in the walk-through video also below. 
  
 
 ## Application Screenshots
