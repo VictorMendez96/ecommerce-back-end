@@ -58,4 +58,5 @@ You will open your API Client and start making CRUD requests to the API. You sho
 ## Application Links
 
 [GitHub](https://github.com/VictorMendez96/ecommerce-back-end)
+
 [Video Walk-through]()
